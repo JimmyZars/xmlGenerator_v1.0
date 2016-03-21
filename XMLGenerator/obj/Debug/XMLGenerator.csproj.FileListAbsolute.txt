@@ -1,0 +1,9 @@
+C:\Users\jimmy.zars\documents\visual studio 2015\Projects\XMLGenerator\XMLGenerator\bin\Debug\XMLGenerator.exe.config
+C:\Users\jimmy.zars\documents\visual studio 2015\Projects\XMLGenerator\XMLGenerator\bin\Debug\XMLGenerator.exe
+C:\Users\jimmy.zars\documents\visual studio 2015\Projects\XMLGenerator\XMLGenerator\bin\Debug\XMLGenerator.pdb
+C:\Users\jimmy.zars\documents\visual studio 2015\Projects\XMLGenerator\XMLGenerator\obj\Debug\XMLGenerator.Form1.resources
+C:\Users\jimmy.zars\documents\visual studio 2015\Projects\XMLGenerator\XMLGenerator\obj\Debug\XMLGenerator.Properties.Resources.resources
+C:\Users\jimmy.zars\documents\visual studio 2015\Projects\XMLGenerator\XMLGenerator\obj\Debug\XMLGenerator.csproj.GenerateResource.Cache
+C:\Users\jimmy.zars\documents\visual studio 2015\Projects\XMLGenerator\XMLGenerator\obj\Debug\XMLGenerator.exe
+C:\Users\jimmy.zars\documents\visual studio 2015\Projects\XMLGenerator\XMLGenerator\obj\Debug\XMLGenerator.pdb
+C:\Users\jimmy.zars\documents\visual studio 2015\Projects\XMLGenerator\XMLGenerator\obj\Debug\XMLGenerator.csprojResolveAssemblyReference.cache
